@@ -1,32 +1,36 @@
-﻿{
+{
    "qna": [
       {
-         "qid": "QnABot.002",
+         "qid": "Help & Support 001",
          "q": [
-            "How do I use Q and A bot"
+            "How to get started"
          ],
-         "a": "Create and administer your questions and answers using the Q and A Bot Content Designer UI. End users ask questions using the Lex web UI which supports voice or chat, or using Alexa devices for hands free voice interaction. ",
+         "a": "To get set up and ready to make payments on WU® EDGE, first save all your supplier details – within WU® EDGE these are known as your beneficiaries. 
+               When you receive your invoices, enter them into the system.
+               You’ ll soon get a clear picture of your cash flow.As you progress with WU® EDGE, you’ ll want to take advantage of the more advanced features that give you real insight and control over your global transactions.",
          "r": {
             "title": "",
             "imageUrl": ""
          }
       },
       {
-         "qid": "Media.001",
+        "qid": "Help & Support 002",
          "q": [
-            "How can I include pictures in Q and A Bot answers"
+            "Which internet browser works best with WU® EDGE?"
          ],
-         "a": "Add an image attachment to the item using the Content Designer.",
+         "a": "WU® EDGE works best with Google Chrome, although it can also be used with Internet Explorer 9, 10 and 11 and Apple Safari from version 10 on the Mac operating system. The most recent versions of Microsoft Edge and Mozilla Firefox also supported.  
+              Whichever browser you use, be sure to keep it up to date.This will keep it running at its best and keep your data more secure.",
          "r": {
             "title": "",
             "imageUrl": ""
          }
       },
       {
+         "qid": "Help & Support 003",
          "q": [
-            "What is Q and A Bot"
+            "How can I contact Western Union Business Solutions?"
          ],
-         "a": "The Q and A Bot uses Amazon Lex and Alexa to provide a natural language interface for your FAQ knowledge base, so your users can just ask a question and get a quick and relevant answer.",
+         "a": "For most queries, contact us below and we will respond within 1 working day. If you have an urgent query, please contact your account representative.",
          "r": {
             "title": "",
             "imageUrl": ""
@@ -34,18 +38,23 @@
          "qid": "QnABot.001"
       },
       {
-         "qid": "Admin.002",
+         "qid": "Invoices from Suppliers 1",
          "q": [
-            "Can I backup Q and A Bot content"
+            "How do I enter an invoice from a supplier into WU® EDGE?"
          ],
-         "a": "Yes. Use the Content Designer to export your content as a JSON file. Maintain this file in your version control system or S3 bucket. Use the Designer UI Import feature to restore content from the JSON file.",
+         "a": "From the Homepage, select ‘Add invoice’.
+              Choose the‘ Invoice’ option at the top of the Make a Payment page.
+              Fill in the fields with the information from your invoice.
+              You can choose to save the invoice by selecting 'Save for later'
+              Pay the invoice straight away by selecting‘ Proceed to pay’
+              If you intend to pay more than one invoice in a single transaction select‘ Add to order’.",
          "r": {
             "title": "",
             "imageUrl": ""
          }
       },
       {
-         "qid": "Admin.003",
+         "qid": "Invoices from Suppliers 2",
          "q": [
             "Can I import Q and A Bot content from a file"
          ],
